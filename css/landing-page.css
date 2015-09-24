@@ -168,3 +168,14 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+.img-team {
+  border-radius: 100%;
+  max-width: 250px;
+  padding: 10%;
+}
+
+.full-iframe {
+width:100%;
+border:none;
+}
