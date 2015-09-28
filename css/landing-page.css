@@ -179,3 +179,10 @@ p.copyright {
 width:100%;
 border:none;
 }
+
+.img-responsive-portrait {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  padding-left: 0;
+}
